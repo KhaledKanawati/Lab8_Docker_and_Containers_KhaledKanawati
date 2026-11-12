@@ -7,7 +7,6 @@ Khaled Kanawati
 - `hello_world/`: Flask Hello World example for Activity 1
 - `lab5_api/`: Lab 5 user-management API (port 5000)
 - `get_users_api/`: `GET /get_users` (port 3000)
-- `postman/`: Lab 5 Postman collection
 - `evidence/`: screenshots from the Docker exercises
 - `Lab8_Report_Khaled_Kanawati.docx`: command explanations and screenshots
 
